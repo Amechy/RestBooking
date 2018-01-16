@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RestBooking</string>
+    <string name="txvSignIn">Iniciar Sesión</string>
+    <string name="txvUser">Usuario</string>
+    <string name="txvPassword">Contraseña</string>
+    <string name="chkRemember">Recuérdame</string>
+    <string name="btnSignUp"><u>Registrarse</u></string>
+    <string name="btnSignIn">Acceder</string>
+    <string name="btnGoogleSign">Iniciar con Google</string>
+    <string name="btnFacebook">Iniciar con Facebook</string>
+    <string name="txvName">Nombre</string>
+    <string name="txvTienesRestaurante"><u>¿Tienes un restaurante?</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
